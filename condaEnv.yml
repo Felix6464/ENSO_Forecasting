@@ -1,0 +1,23 @@
+name: deeps2aEnv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter
+  - python[version='>=3.8']
+  - ipython
+  - ipywidgets
+  - pip
+  - xarray
+  - netcdf4
+  - dask
+  - cftime
+  - numpy
+  - scipy
+  - matplotlib
+  - cartopy
+  - scikit-learn
+  - nc-time-axis
+  - einops
+  - tqdm
+  - wandb
