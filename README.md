@@ -1,4 +1,4 @@
-# deeps2a-enso
+# ENSO Forecasting
 Deep learning models for seasonal-to-annual forecasting of ENSO.
 
 ## Install
